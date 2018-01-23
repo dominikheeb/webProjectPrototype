@@ -8,6 +8,7 @@ object WebProjectPrototype_HttpsGithubComDominikheebWebProjectPrototypeGitRefsHe
     id = "WebProjectPrototype_HttpsGithubComDominikheebWebProjectPrototypeGitRefsHeadsMast"
     name = "https://github.com/dominikheeb/webProjectPrototype.git#refs/heads/master"
     url = "https://github.com/dominikheeb/webProjectPrototype.git"
+    branchSpec = "+:refs/heads/*"
     authMethod = password {
         userName = "dominikheeb"
         password = "credentialsJSON:bd85f2d5-1301-48d9-b8e2-9cbe231293e7"
