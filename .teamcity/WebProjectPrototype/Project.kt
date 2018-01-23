@@ -22,7 +22,7 @@ object Project : Project({
         versionedSettings {
             id = "PROJECT_EXT_3"
             mode = VersionedSettings.Mode.ENABLED
-            buildSettingsMode = VersionedSettings.BuildSettingsMode.PREFER_SETTINGS_FROM_VCS
+            buildSettingsMode = VersionedSettings.BuildSettingsMode.USE_CURRENT_SETTINGS
             rootExtId = WebProjectPrototype_HttpsGithubComDominikheebWebProjectPrototypeGitRefsHeadsMast.id
             showChanges = true
             settingsFormat = VersionedSettings.Format.KOTLIN
